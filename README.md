@@ -45,11 +45,15 @@ with tight deadlines or simply editing code files from your computer, **YouCode*
 
 ![YouCode Interface](https://github.com/user-attachments/assets/e8f2b684-6d8e-4041-a505-0836de27e929)
 
+
 ![YouCode Signin-Page](https://github.com/user-attachments/assets/758f678d-909c-4e67-b320-b11a5ae69da0)
+
 
 ![Account Profile](https://github.com/user-attachments/assets/8327f5b2-1ee5-46b3-adf1-2a549e02f64a)
 
+
 ![Task Window](https://github.com/user-attachments/assets/fc68ecd6-095a-4ef6-a86f-73433739e34f)
+
 
 ## Future Enhancements 🔧:
 
